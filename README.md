@@ -1,10 +1,10 @@
 # Supplementary Visual Results for PanoDiff
 
-## Addition Results for Reviewer
+## Additional Results for Reviewer JmSx
 
 
-## Addition Results for Reviewer
+## Additional Results for Reviewer JY1h
 
 
-## Addition Results for Reviewer
+## Additional Results for Reviewer 4Bp3
 
