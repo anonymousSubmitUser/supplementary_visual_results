@@ -1,6 +1,6 @@
-# Rebuttal
+# Supplementary Visual Comparisons
 
-## Reviewer 4Bp3
+## For Reviewer 4Bp3
 
 ![vary_depth_1](figs/vary_depth_1.png)
 
