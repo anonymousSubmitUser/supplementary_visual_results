@@ -13,3 +13,9 @@
 ![vary_depth_1](figs/laval_low_light.png)
 
 **Figure 3: Out-painting results on scenes with extremely low illumination. The inputs are acquired by reducing the exposure parameters on original raw images from Laval Indoor Dataset. From above it can be found that our method tends to generate panoramas with normal lighting, this limitation is caused by the lack of low-light training data.**
+
+## For Reviewer JmSx
+
+![multiple prompts](figs/multi_prompts.png)
+
+**Figure 4. Generation results of multiple text prompt text input. We randomly picked 2 scenes from our test set and pair them with composite prompts of different texts. As could be seen from the results, our generation module is capable of handling this type of text prompt control.**
